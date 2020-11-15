@@ -1,0 +1,9 @@
+font-family-san-saerif
+
+color- #121B2A;
+
+h1 color- #0075B8;
+
+color- #121B2C;
+
+maximum text color- #121B2C;
